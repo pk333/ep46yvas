@@ -1,0 +1,7 @@
+###### You can write here which packages are necessary to
+run your code ######
+
+numpy==1.21.2
+numpy
+Pillow
+ipywidgets
